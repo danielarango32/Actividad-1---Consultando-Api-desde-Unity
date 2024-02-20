@@ -3,7 +3,7 @@
     "counts":4,
     "results":[
       {
-        "id":Daniel,
+        "id":"Daniel",
         "username":"Daniel"
         "deck": [
         {
@@ -21,7 +21,7 @@
       ]
       },
       {
-        "id":Daniela,
+        "id":"Daniela",
         "username":"Daniela"
         "deck": [
         {
@@ -39,7 +39,7 @@
       ]
       },
       {
-        "id":Sara,
+        "id":"Sara",
         "username":"Sara"
         "deck": [
         {
@@ -57,7 +57,7 @@
       ]
       },
       {
-        "id":Daniela,
+        "id":"Daniela",
         "username":"Daniela"
         "deck": [
         {
