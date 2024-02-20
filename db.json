@@ -2,7 +2,7 @@
   "users":[
       {
         "id":"1",
-        "username":"Daniel"
+        "username":"Daniel",
         "deck": [
         {
           "card": "1"
@@ -20,7 +20,7 @@
       },
       {
         "id":"2",
-        "username":"Daniela"
+        "username":"Daniela",
         "deck": [
         {
           "card": "5"
@@ -38,7 +38,7 @@
       },
       {
         "id":"3",
-        "username":"Sara"
+        "username":"Sara",
         "deck": [
         {
           "card": "9"
@@ -56,7 +56,7 @@
       },
       {
         "id":"4",
-        "username":"Daniela"
+        "username":"Laura",
         "deck": [
         {
           "card": "13"
