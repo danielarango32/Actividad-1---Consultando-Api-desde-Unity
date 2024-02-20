@@ -1,7 +1,5 @@
 {
-  "users":{
-    "counts":4,
-    "results":[
+  "users":[
       {
         "id":"Daniel",
         "username":"Daniel"
@@ -73,8 +71,7 @@
           "card": "16"
         }
       ]
-      },
-    ]
-  },
-  
+    }
+  ]
 }
+
