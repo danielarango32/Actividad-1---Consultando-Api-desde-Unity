@@ -1,7 +1,7 @@
 {
   "users":[
       {
-        "id":"Daniel",
+        "id":"1",
         "username":"Daniel"
         "deck": [
         {
@@ -19,7 +19,7 @@
       ]
       },
       {
-        "id":"Daniela",
+        "id":"2",
         "username":"Daniela"
         "deck": [
         {
@@ -37,7 +37,7 @@
       ]
       },
       {
-        "id":"Sara",
+        "id":"3",
         "username":"Sara"
         "deck": [
         {
@@ -55,7 +55,7 @@
       ]
       },
       {
-        "id":"Daniela",
+        "id":"4",
         "username":"Daniela"
         "deck": [
         {
