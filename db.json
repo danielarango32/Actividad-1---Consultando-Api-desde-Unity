@@ -1,11 +1,80 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users":{
+    "counts":4,
+    "results":[
+      {
+        "id":Daniel,
+        "username":"Daniel"
+        "deck": [
+        {
+          "card": "1"
+        },
+        {
+          "card": "2"
+        },
+        {
+          "card": "3"
+        },
+        {
+          "card": "4"
+        }
+      ]
+      },
+      {
+        "id":Daniela,
+        "username":"Daniela"
+        "deck": [
+        {
+          "card": "5"
+        },
+        {
+          "card": "6"
+        },
+        {
+          "card": "7"
+        },
+        {
+          "card": "8"
+        }
+      ]
+      },
+      {
+        "id":Sara,
+        "username":"Sara"
+        "deck": [
+        {
+          "card": "9"
+        },
+        {
+          "card": "10"
+        },
+        {
+          "card": "11"
+        },
+        {
+          "card": "12"
+        }
+      ]
+      },
+      {
+        "id":Daniela,
+        "username":"Daniela"
+        "deck": [
+        {
+          "card": "13"
+        },
+        {
+          "card": "14"
+        },
+        {
+          "card": "15"
+        },
+        {
+          "card": "16"
+        }
+      ]
+      },
+    ]
+  },
+  
 }
